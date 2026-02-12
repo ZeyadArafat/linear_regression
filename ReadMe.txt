@@ -36,7 +36,7 @@ Notebook workflow (high level)
 6. Implement batch gradient descent (manual loop) to learn weights:
 	- learning rate used in the notebook: 1e-8
 	- iterations: 10,000
-7. Compute predictions, report mean error, and plot true vs predicted values.
+7. Compute predictions, report mean square error, and plot true vs predicted values.
 
 Notes
 -------------------
